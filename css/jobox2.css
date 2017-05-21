@@ -1,0 +1,56 @@
+.cause h1 {
+	color: #30003b;
+	font-weight: bold;
+	font-size: 400%;
+	margin-left: 40px;
+}
+
+.info{
+	margin-left: 60px;
+}
+
+#inputName{
+	margin-top: 40px;
+}
+
+#inputEmail3{
+	margin-top: 10px;
+}
+
+#NONPROFIT{
+	margin-top: 10px;
+}
+
+#W{
+	margin-top: 10px;
+}
+
+.inputboxes{
+	margin-left: px;
+}
+
+.row{
+  margin-top: 60px;
+  margin-bottom: 30px
+}
+
+.media{
+	margin-left: 60px;
+}
+
+#button{
+	margin-top: 20px;
+	background-color: #FF1493;
+	border: none;
+	text-align: center;
+	align-content: center;
+
+}
+
+.inside{
+	margin-left: 20px;
+}
+
+#buttonsend{
+	margin-left: 40px;
+}
