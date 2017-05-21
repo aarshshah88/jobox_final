@@ -1,8 +1,11 @@
 .cause h1 {
-	color: #30003b;
 	font-weight: bold;
 	font-size: 400%;
 	margin-left: 40px;
+}
+
+.header{
+	color: #420237;
 }
 
 .info{
